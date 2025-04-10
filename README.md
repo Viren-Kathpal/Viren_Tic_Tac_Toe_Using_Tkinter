@@ -12,7 +12,7 @@ A fun and interactive **Tic Tac Toe** game built using **Python** and **Tkinter*
 
 ## Screenshots
 
-![Main Menu](output.png)
+![Main Menu](Output.png)
 
 
 
