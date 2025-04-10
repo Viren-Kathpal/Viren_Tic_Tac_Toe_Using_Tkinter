@@ -1,2 +1,22 @@
-# Viren19_TIC_TAC_TOE_USING_TKINTER
-Developed a graphical Tic Tac Toe game using the TKINTER library in Python. Implemented a user-friendly interface with interactive buttons for player moves and a grid layout to simulate the game board.
+# Tic Tac Toe with GUI
+
+A fun and interactive **Tic Tac Toe** game built using **Python** and **Tkinter**. You can play either in **single-player mode** (against a simple AI) or **multi-player mode** with a friend!
+
+## Features
+
+- Classic 3x3 Tic Tac Toe board
+- Single Player mode with basic AI
+- Two Player mode
+- Interactive GUI using `tkinter`
+- Displays winner or tie at the end
+
+## Screenshots
+
+![Main Menu](images/output.png)
+![Gameplay - Single Player](single_player.png)
+![Gameplay - Multiplayer](multi_player.png)
+
+> **Note:** Make sure to place your screenshots in a folder named `images` in the root of your repository.
+
+
+
