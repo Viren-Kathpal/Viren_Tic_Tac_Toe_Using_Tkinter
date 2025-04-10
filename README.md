@@ -17,7 +17,7 @@ A fun and interactive **Tic Tac Toe** game built using **Python** and **Tkinter*
 
 
 
-> **Note:** Make sure to place your screenshots in a folder named `images` in the root of your repository.
+
 
 
 
