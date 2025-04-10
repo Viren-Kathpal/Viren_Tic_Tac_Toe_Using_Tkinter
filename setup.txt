@@ -1,1 +1,15 @@
+# Tic Tac Toe using Tkinter Setup Instructions
+
+1. Create a virtual environment (optional but recommended):
+   python -m venv venv
+   source venv/bin/activate   (Linux/macOS)
+   venv\Scripts\activate      (Windows)
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the app:
+   python tic_tac_toe.py
+
+
 
