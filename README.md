@@ -12,8 +12,15 @@ A fun and interactive **Tic Tac Toe** game built using **Python** and **Tkinter*
 
 ## Screenshots
 
-![Main Menu](images/output.png)
+![Main Menu](output.png)
+
+
+
 ![Gameplay - Single Player](single_player.png)
+
+
+
+
 ![Gameplay - Multiplayer](multi_player.png)
 
 > **Note:** Make sure to place your screenshots in a folder named `images` in the root of your repository.
