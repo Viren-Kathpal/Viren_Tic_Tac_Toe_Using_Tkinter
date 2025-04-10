@@ -11,5 +11,9 @@
 3. Run the app:
    python tic_tac_toe.py
 
+4. Deactivate Virtual Environment (If Needed)
+When you're done, deactivate the virtual environment:
+deactivate
+
 
 
